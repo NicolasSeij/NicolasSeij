@@ -6,14 +6,13 @@ Soy un Desarrollador Junior. Me gusta trabajar en proyectos que desafían mis ha
 
 ### Habilidades
 - HTML, CSS, REACT JS
-- Git, VSCode, Node.js
-- React, Bootstrap
+- Git, VSCode,
+- Bootstrap
 - SQL, PHP, JavaScript
 - MySQL, HeidiSQL
 
 ### Sobre mí
 - 🔭 Estoy trabajando en Pan American Energy
-- 📫 Cómo contactarme: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-seijas-222909263/)](https://www.linkedin.com/in/nicolas-seijas-222909263/)
 
 ### Conéctate conmigo
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/NicolasSeij)](https://github.com/NicolasSeij)
