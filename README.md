@@ -1,5 +1,6 @@
 ## Hola 👋, Soy Nicolás
 ### Developer
+![image](https://github.com/user-attachments/assets/6a13480a-a902-4138-89ef-e6dfd069164f)
 
 Soy un Desarrollador Junior. Me gusta trabajar en proyectos que desafían mis habilidades y me permiten aprender algo nuevo cada día.
 
